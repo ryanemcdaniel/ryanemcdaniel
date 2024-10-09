@@ -1,11 +1,3 @@
-My name is Ryan, and I'm a Filipino American born and raised in Iowa.
-
-Living my best life with my partner and our two dogs, Ravi and Oli - a.k.a. *ravioli*. 
-
-Enjoy the eye bleach! :heart:
-
-<img src="https://github.com/user-attachments/assets/a0533c40-db53-477e-888d-5986399a044f" width=250>
-
 <!--
 **ryanemcdaniel/ryanemcdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Ryan, and I'm a Filipino American born and raised in Iowa.
+
+Living my best life with my partner, Matt, and our two dogs, Ravi and Oli - a.k.a. *ravioli*. 
+
+Enjoy the eye bleach! :heart:  
+<img src="https://github.com/user-attachments/assets/a0533c40-db53-477e-888d-5986399a044f" width=250>
